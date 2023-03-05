@@ -1,0 +1,21 @@
+{
+    "name": "5C-TP",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "test.md"
+    ],
+    "testFiles": [
+    ],
+    "targetVersions": {
+        "target": "1.6.30",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}

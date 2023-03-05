@@ -8,8 +8,7 @@
     "files": [
         "test.md"
     ],
-    "testFiles": [
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.6.30",
         "targetId": "minecraft"
